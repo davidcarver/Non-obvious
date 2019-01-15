@@ -1,3 +1,5 @@
+// Ordered by performance (stock, fast, faster)
+
 #include <math.h>
 
 double findperimeter(int n, double x[], double y[]) 
