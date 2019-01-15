@@ -1,3 +1,5 @@
+// Ordered by performance (stock, fast, faster)
+
 double findArea1(int n, double x[], double y[])
 {
    int i, j;
