@@ -1,4 +1,5 @@
  Non-obvious
+ <pre>
  from http://graphics.stanford.edu/~seander/bithacks.html
       "Hacker's Delight" by Henry S. Warren, Jr.
       "The GRAPHICS GEMS Series" started by Andrew Glassner
